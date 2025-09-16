@@ -15,7 +15,6 @@ This system addresses the critical need for proper medical waste management by a
 - **Smart Notifications**: Bluetooth-enabled system for waste bin level monitoring
 - **Medical Focus**: Designed specifically for hospital and healthcare facility requirements
 - **Sustainable Design**: Built with eco-friendly and cost-effective materials
-- **Mobile Integration**: Companion app for real-time waste management alerts
 
 ## 🛠️ System Components
 
